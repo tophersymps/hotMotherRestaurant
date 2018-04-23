@@ -1,0 +1,29 @@
+{
+  "name": "hotmotherrestaurant",
+  "version": "1.0.0",
+  "description": "Operation Hot Mother",
+  "main": "server.js",
+  "scripts": {
+    "test": "wapatooi",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tophersymps/hotMotherRestaurant.git"
+  },
+  "keywords": [
+    "hot",
+    "mother"
+  ],
+  "author": "The Crew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tophersymps/hotMotherRestaurant/issues"
+  },
+  "homepage": "https://github.com/tophersymps/hotMotherRestaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
